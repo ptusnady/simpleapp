@@ -1,4 +1,4 @@
-FROM ubi8:latest
+FROM ubi8/ubi:8.3
 MAINTAINER Sander van Vugt <mail@sandervanvugt.nl>
 
 # mandatory K8S labels
